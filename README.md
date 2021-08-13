@@ -1,4 +1,4 @@
-# Templated in C++
+# Templates in C++
 This repo contains examples related to different features of templates in C++
 Build the repo using the following commands:
 ```
